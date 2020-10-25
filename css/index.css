@@ -1,0 +1,29 @@
+html{
+    top: 0;
+    left: 0;
+}
+body{
+    margin-top: 0;
+    margin-left: 0;
+    position: fixed;
+    background-color: #121212;
+}
+header{
+    background-color: dimgray;
+}
+.Logo{
+position: absolute;
+}
+.navigation {
+    list-style-type: none;
+    text-decoration: none;
+    margin-top: 30%;
+}
+.navigation a{
+   
+    color: white;
+    text-decoration: none;
+    font-size: 3em;
+    padding: 50px;
+    line-height: 2;
+}
